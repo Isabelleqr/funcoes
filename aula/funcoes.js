@@ -176,7 +176,8 @@ console.log(media(9,9))
 
 
 //19
-function calcularQuadrado(numero) {
+//19
+function calcularQuadrado(numerow) {
     return numerow * numerow;
 }
 
